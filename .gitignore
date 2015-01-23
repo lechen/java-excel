@@ -1,0 +1,13 @@
+#eclipse
+.settings/
+.project
+.classpath
+target/
+.idea/
+*.iml
+Thumbs.db
+*.class
+*.apk
+bin/
+gen/
+proguard/
